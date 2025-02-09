@@ -1,18 +1,14 @@
 # Streamlit_Notes
 
-Components of Streamlit
+## Components of Streamlit
 
-Text Elemnets
-
-Input Widgets
-
-Media
-
-Error Elements
-
-Data Elements
-
-Chat Elements
+Elements
+- Text 
+- Error
+- Data
+- Input Widgets
+- Chat Elements
+- Media Elements
 
 Streamlit Components
 
@@ -21,14 +17,9 @@ Status Elements Loading Widget
 Utils
 
 Layout
-
-Tabs 
-
-Columns Container
-
-Expander 
-
-Popover 
-
-Dialog
+- Tabs 
+- Columns Container
+- Expander 
+- Popover 
+- Dialog
 
